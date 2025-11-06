@@ -22,7 +22,7 @@
 ###
 
 <div align="left">
-  <img src="https://w7.pngwing.com/pngs/140/948/png-transparent-blue-and-yellow-logo-python-logo-programmer-fierce-python-s-cdr-angle-text-thumbnail.png" height="40" alt="python logo"  />
+  <img src="https://tl.vhv.rs/dpng/s/442-4428823_python-logo-hd-png-download.png" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://repository-images.githubusercontent.com/62875407/37177d80-03e2-11ea-9bc8-bbe949411d11" height="40" alt="latex logo"  />
   <img width="12" />
