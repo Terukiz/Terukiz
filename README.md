@@ -1,8 +1,8 @@
-# Hi there 👋 I'm Teruikiz!
+# I'm Teruikiz! 👋 
 
 ###
 
-<p align="left">Hi there! I'm Terukiz, I'm currently studying computer engineering at KOSEN-KMITL.</p>
+<p align="left">Hi there! I'm Terukiz, I'm studying computer engineering at KOSEN-KMITL.</p>
 
 ###
 
