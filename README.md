@@ -1,4 +1,4 @@
-# I'm Teruikiz! 👋 
+# I'm Terukiz! 👋 
 
 ###
 
