@@ -22,9 +22,9 @@
 ###
 
 <div align="left">
-  <img src="https://www.python.org/static/community_logos/python-logo.png" height="40" alt="python logo"  />
+  <img src="https://w7.pngwing.com/pngs/140/948/png-transparent-blue-and-yellow-logo-python-logo-programmer-fierce-python-s-cdr-angle-text-thumbnail.png" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://logowik.com/content/uploads/images/latex6119.logowik.com.webp" height="40" alt="latex logo"  />
+  <img src="https://repository-images.githubusercontent.com/62875407/37177d80-03e2-11ea-9bc8-bbe949411d11" height="40" alt="latex logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="40" alt="c logo"  />
   
