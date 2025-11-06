@@ -14,3 +14,18 @@
 </div>
 
 ###
+
+###
+
+<h2 align="left">"I think, therefore I am"</h2>
+
+###
+
+<div align="left">
+  <img src="https://www.python.org/static/community_logos/python-logo.png" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/960px-LaTeX_logo.svg.png" height="40" alt="latex logo"  />
+  
+</div>
+
+###
