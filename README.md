@@ -17,7 +17,7 @@
 
 ###
 
-<h2 align="left">"I think, therefore I am"</h2>
+<h2 align="left">Coding Language and Tools</h2>
 
 ###
 
@@ -31,3 +31,6 @@
 </div>
 
 ###
+
+# I think therefore I am. 😉
+# Teruki Nattanon Sato | KOSEN-KMITL
