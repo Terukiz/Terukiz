@@ -24,9 +24,9 @@
 <div align="left">
   <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://repository-images.githubusercontent.com/62875407/37177d80-03e2-11ea-9bc8-bbe949411d11" height="40" alt="latex logo"  />
-  <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://repository-images.githubusercontent.com/62875407/37177d80-03e2-11ea-9bc8-bbe949411d11" height="40" alt="latex logo"  />
   
 </div>
 
