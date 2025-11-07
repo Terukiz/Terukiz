@@ -32,5 +32,6 @@
 
 ###
 
-# I think therefore I am. 😉
-# Teruki Nattanon Sato | KOSEN-KMITL
+
+<h2 align="left">I think therefore I am. 😉</h2>
+<h2 align="left">Teruki Nattanon Sato | KOSEN-KMITL </h2>
