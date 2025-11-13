@@ -40,7 +40,7 @@
 <p align="left">I think therefore I am. 😉</h2>
 <p align="left">I am interested in Digital Circuit, Electrical Circuit and IoT. 😻</h2>
 <p align="left">I will do the rabainamair という project.".</h2>
-<p align="left">Teruki Nattanon Sato | KOSEN-KMITL </h2>
+<p align="left">Teruki Nattanon Sato | KOSEN-KMITL | KMITL</h2>
 
 <div align="left">
   <a href="mailto:67991041@kmitl.ac.th">
