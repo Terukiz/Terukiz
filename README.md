@@ -37,7 +37,7 @@
 <p align="left">Teruki Nattanon Sato | KOSEN-KMITL </h2>
 
 <div align="left">
-  <a href="mailto:6799104@kmitl.ac.th">
+  <a href="mailto:67991041@kmitl.ac.th">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   
